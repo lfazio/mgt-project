@@ -5,6 +5,7 @@ Date: Tue Oct 25 09:45:17 CEST 2016
 Estimation: None
 Remaining: None
 Tags: enhancement
+Depends: None
 Description: mgt-task.sh: Search tasks for all projects
 
 Parse tasks from all project to apply filter. The main idea is to be able to retrieve all tasks assigned to one specific user.

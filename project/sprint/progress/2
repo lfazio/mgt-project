@@ -5,6 +5,7 @@ Date: Tue Oct 25 09:50:19 CEST 2016
 Estimation: None
 Remaining: None
 Tags: enhancement
+Depends: None
 Description: mgt: Fix argument parsing with 'getopt' tool
 
 Use getopt to parse script arguments.
